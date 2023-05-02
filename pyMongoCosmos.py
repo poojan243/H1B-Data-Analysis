@@ -19,25 +19,25 @@ print("Connection Established successfully.")
 
 """ Inserting data into collections """
 
-# employee_details_df = pd.read_csv('E:\MSDA\Sem 1\DBMS\Project\Data\Individual/Employee_Details_22_Min.csv')
+# employee_details_df = pd.read_csv('File path goes here')
 # employee_details_Dict = employee_details_df.to_dict('records')
 
-# agent_details_df = pd.read_csv('E:\MSDA\Sem 1\DBMS\Project\Data\Individual/Agent_Details_22_Min.csv')
+# agent_details_df = pd.read_csv('File path goes here')
 # agent_details_Dict = agent_details_df.to_dict('records')
 
-# case_details_df = pd.read_csv('E:\MSDA\Sem 1\DBMS\Project\Data\Individual/Case_Details_22_Min.csv')
+# case_details_df = pd.read_csv('File path goes here')
 # case_details_Dict = case_details_df.to_dict('records')
 
-# employee_change_details_df = pd.read_csv('E:\MSDA\Sem 1\DBMS\Project\Data\Individual/Employee_Change_Details_22_Min.csv')
+# employee_change_details_df = pd.read_csv('File path goes here')
 # employee_change_details_Dict = employee_change_details_df.to_dict('records')
 
-# employee_office_details_df = pd.read_csv('E:\MSDA\Sem 1\DBMS\Project\Data\Individual/Employee_Office_Details_22_Min.csv')
+# employee_office_details_df = pd.read_csv('File path goes here')
 # employee_office_details_Dict = employee_office_details_df.to_dict('records')
 
-# employee_wage_details_df = pd.read_csv('E:\MSDA\Sem 1\DBMS\Project\Data\Individual/Employee_Wage_Details_22_Min.csv')
+# employee_wage_details_df = pd.read_csv('File path goes here')
 # employee_wage_details_Dict = employee_wage_details_df.to_dict('records')
 
-# employer_details_df = pd.read_csv('E:\MSDA\Sem 1\DBMS\Project\Data\Individual/Employer_Details_22_Min.csv')
+# employer_details_df = pd.read_csv('File path goes here')
 # employer_details_Dict = employer_details_df.to_dict('records')
 
 # employee_details_collection.insert_many(employee_details_Dict)
