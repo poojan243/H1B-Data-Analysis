@@ -91,7 +91,7 @@ print("Connection Established successfully.")
 
 """ Aggregate pipelines using python """
 
-""" 1. Top 10 agents in 2022 who got visa approved """
+""" 1. Top 10 attorneys in 2022 who got most visas approved """
 
 # pipeline1 = [
 #     {
@@ -163,7 +163,7 @@ print("Connection Established successfully.")
 #     print(result)
 
 
-""" 2. Top 10 job title in 2022 having the highest chances of getting visa denied """
+""" 2. Top 10 job title in 2022 having the highest visa denials """
 
 # pipeline2 = [
 #     {
@@ -418,7 +418,7 @@ print("Connection Established successfully.")
 # for result in results5:
 #     print(result)
 
-""" 6. Top 10 job titles where employees have hourly paya and has the highest number of cases approved."""
+""" 6. Top 10 job titles where employees have hourly pay rate and has the highest number of cases approved."""
 
 # pipeline6 = [
 #     {
