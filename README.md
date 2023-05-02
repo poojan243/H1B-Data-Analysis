@@ -3,4 +3,4 @@ This project aims to perform analysis on H1B applications of immigrants using di
 
 ------------------------------- NOTE ----------------------------------
 
-The dataset attached here is compact dataset due to space restriction of Git. The link to original data set for tabels and data cleaning can be found here in the drive (https://drive.google.com/drive/folders/1PHKnbMj798z1pHfkw0ucZ7RDSPQEhe9d?usp=sharing) 
+The dataset present here is compact dataset due to space restriction of Git. The link to original data set for tabels and data cleaning can be found here in the drive (https://drive.google.com/drive/folders/1PHKnbMj798z1pHfkw0ucZ7RDSPQEhe9d?usp=sharing) 
